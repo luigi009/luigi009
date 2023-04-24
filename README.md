@@ -6,7 +6,9 @@ I am a Frontend Developer with a passion for learning new technologies and solvi
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="background: #fff; border-radius: 50%;" height="30" width="40" />
+    <div style="background: #fff; border-radius: 50%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+    </div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="30" width="40" />
     <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" height="30" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" />
@@ -18,7 +20,9 @@ I am a Frontend Developer with a passion for learning new technologies and solvi
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" width="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="background: #fff; border-radius: 50%;" height="30" width="40" />
+    <div style="background: #fff; border-radius: 50%;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="30" width="40" />
+    </div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" height="30" width="40" />
 </div>
 
