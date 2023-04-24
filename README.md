@@ -1,8 +1,18 @@
 # Hi! My name is Luigi Fanaro and I am Frontend Developer.
 
-As a Front-end programmer, I have a wide range of skills that allow me to develop high-performance and quality solutions.
+I am a Frontend Developer with a passion for learning new technologies and solving problems. I am very interested in the React ecosystem and I am currently learning Next.js and TypeScript. I am also interested in the ASP.NET ecosystem and I am currently learning C#. Today I am working more with React and Next.js, but I am always open to learning new technologies.
 
-I have ability to use the fallow frameworks and languages:
+## Skills
+
+<div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" height="30" width="40" />
+</div>
 
 ## Frameworks
 
@@ -22,10 +32,6 @@ I have ability to use the fallow frameworks and languages:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="30" width="40" />
 </div>
-
-This languages and frameworks allows allows me to create graphical interfaces, develop complex animations, and build dynamic applications according to the clients' needs.
-
-In addition, I have deep knowledge in the fallow libraries:
 
 ## Libraries
 
