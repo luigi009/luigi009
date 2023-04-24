@@ -34,6 +34,13 @@ In addition, I have deep knowledge in the fallow libraries:
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 - [Next Auth](https://next-auth.js.org/)
 
+<div>
+    <a href="https://github.com/luigi009">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigi009&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigi009&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+</div>
+
 <div> 
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
