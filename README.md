@@ -24,15 +24,17 @@ In addition, I have deep knowledge in the fallow libraries:
 
 ## Libraries
 
-- [Redux](https://redux.js.org/)
-- [Material-UI](https://material-ui.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [SASS](https://sass-lang.com/)
-- [Styled Components](https://styled-components.com/)
-- [React Router](https://reactrouter.com/)
-- [React Router DOM](https://reactrouter.com/web/guides/quick-start)
-- [Next Auth](https://next-auth.js.org/)
+<div>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next_Auth-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
 
 <div>
     <a href="https://github.com/luigi009">
